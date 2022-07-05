@@ -1,0 +1,12 @@
+.labelday {
+  min-width: 110px;
+  display: inline-block;
+}
+.submitButtonDiv {
+  justify-content: center;
+  align-items: center;
+}
+.submitButton {
+  display: block;
+  margin-top: 10px;
+}

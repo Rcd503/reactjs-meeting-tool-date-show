@@ -1,0 +1,25 @@
+.divStyle {
+  flex: auto;
+  justify-content: center;
+  align-items: center;
+}
+.styleLabel1 {  
+  background-color: #f7eeee;
+  margin-top: 10px;
+  display: block;
+}
+.bigblue {
+  color: #000000;
+  padding: 10px;
+  font-family: Sans-Serif;
+  text-align: center;
+  background-color: #71e09c;
+}
+.submitButtonDiv {
+  justify-content: center;
+  align-items: center;
+}
+.submitButton {
+  display: block;
+  margin-top: 10px;
+}
